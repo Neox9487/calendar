@@ -1,0 +1,7 @@
+./calendar
+./configs/__pycache__
+./gui/__pycache__
+./gui/widgets/__pycache__
+./gui/widgets/body/__pycache__
+./gui/widgets/head/__pycache__
+./utils/__pycache__

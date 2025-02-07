@@ -1,0 +1,2 @@
+UI_WINDOW_SIZE = (420, 480)
+UI_WINDOW_NAME = "Calendar"
